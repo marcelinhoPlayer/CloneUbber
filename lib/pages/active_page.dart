@@ -56,15 +56,15 @@ class _ActivePageState extends State<ActivePage> with SingleTickerProviderStateM
               ListTile(
                 leading: Container(
                     margin: EdgeInsets.all(10),
-                    width: 20,
-                    height: 20,
+                    width: 40,
+                    height: 40,
                     decoration: BoxDecoration(
                         color: textFieldColor,
                         borderRadius: BorderRadius.circular(30)
                     ),
                     child: Image(
-                      image: AssetImage("assets/images/car.jpg"),
-                      fit: BoxFit.cover,
+                      image: AssetImage("assets/images/car2.png"),
+                      fit: BoxFit.fitWidth,
                     )),
                 title: Text("R. dos imigrantes",style: TextStyle(fontSize: 20,fontWeight: FontWeight.w500,)),
                 subtitle: Text("20 de set. - 10:27 AM - R\$25.74 ",style: TextStyle(fontSize: 15,fontWeight: FontWeight.w500,color: black.withOpacity(0.4))),
@@ -77,15 +77,15 @@ class _ActivePageState extends State<ActivePage> with SingleTickerProviderStateM
               ListTile(
                 leading: Container(
                     margin: EdgeInsets.all(10),
-                    width: 20,
-                    height: 20,
+                    width: 40,
+                    height: 40,
                     decoration: BoxDecoration(
                         color: textFieldColor,
                         borderRadius: BorderRadius.circular(30)
                     ),
                     child: Image(
-                      image: AssetImage("assets/images/car.jpg"),
-                      fit: BoxFit.cover,
+                      image: AssetImage("assets/images/car2.png"),
+                      fit: BoxFit.fitWidth,
                     )),
                 title: Text("R. dos imigrantes",style: TextStyle(fontSize: 20,fontWeight: FontWeight.w500,)),
                 subtitle: Text("20 de set. - 10:27 AM - R\$25.74 ",style: TextStyle(fontSize: 15,fontWeight: FontWeight.w500,color: black.withOpacity(0.4))),
@@ -98,15 +98,15 @@ class _ActivePageState extends State<ActivePage> with SingleTickerProviderStateM
               ListTile(
                 leading: Container(
                     margin: EdgeInsets.all(10),
-                    width: 20,
-                    height: 20,
+                    width: 40,
+                    height: 40,
                     decoration: BoxDecoration(
                         color: textFieldColor,
                         borderRadius: BorderRadius.circular(30)
                     ),
                     child: Image(
-                      image: AssetImage("assets/images/car.jpg"),
-                      fit: BoxFit.cover,
+                      image: AssetImage("assets/images/car2.png"),
+                      fit: BoxFit.fitWidth,
                     )),
                 title: Text("R. dos imigrantes",style: TextStyle(fontSize: 20,fontWeight: FontWeight.w500,)),
                 subtitle: Text("20 de set. - 10:27 AM - R\$25.74 ",style: TextStyle(fontSize: 15,fontWeight: FontWeight.w500,color: black.withOpacity(0.4))),
@@ -119,15 +119,15 @@ class _ActivePageState extends State<ActivePage> with SingleTickerProviderStateM
               ListTile(
                 leading: Container(
                     margin: EdgeInsets.all(10),
-                    width: 20,
-                    height: 20,
+                    width: 40,
+                    height: 40,
                     decoration: BoxDecoration(
                         color: textFieldColor,
                         borderRadius: BorderRadius.circular(30)
                     ),
                     child: Image(
-                      image: AssetImage("assets/images/car.jpg"),
-                      fit: BoxFit.cover,
+                      image: AssetImage("assets/images/car2.png"),
+                      fit: BoxFit.fitWidth,
                     )),
                 title: Text("R. dos imigrantes",style: TextStyle(fontSize: 20,fontWeight: FontWeight.w500,)),
                 subtitle: Text("20 de set. - 10:27 AM - R\$25.74 ",style: TextStyle(fontSize: 15,fontWeight: FontWeight.w500,color: black.withOpacity(0.4))),
@@ -140,15 +140,15 @@ class _ActivePageState extends State<ActivePage> with SingleTickerProviderStateM
               ListTile(
                 leading: Container(
                     margin: EdgeInsets.all(10),
-                    width: 20,
-                    height: 20,
+                    width: 40,
+                    height: 40,
                     decoration: BoxDecoration(
                         color: textFieldColor,
                         borderRadius: BorderRadius.circular(30)
                     ),
                     child: Image(
-                      image: AssetImage("assets/images/car.jpg"),
-                      fit: BoxFit.cover,
+                      image: AssetImage("assets/images/car2.png"),
+                      fit: BoxFit.fitWidth,
                     )),
                 title: Text("R. dos imigrantes",style: TextStyle(fontSize: 20,fontWeight: FontWeight.w500,)),
                 subtitle: Text("20 de set. - 10:27 AM - R\$25.74 ",style: TextStyle(fontSize: 15,fontWeight: FontWeight.w500,color: black.withOpacity(0.4))),
@@ -161,15 +161,15 @@ class _ActivePageState extends State<ActivePage> with SingleTickerProviderStateM
               ListTile(
                 leading: Container(
                     margin: EdgeInsets.all(10),
-                    width: 20,
-                    height: 20,
+                    width: 40,
+                    height: 40,
                     decoration: BoxDecoration(
                         color: textFieldColor,
                         borderRadius: BorderRadius.circular(30)
                     ),
                     child: Image(
-                      image: AssetImage("assets/images/car.jpg"),
-                      fit: BoxFit.cover,
+                      image: AssetImage("assets/images/car2.png"),
+                      fit: BoxFit.fitWidth,
                     )),
                 title: Text("R. dos imigrantes",style: TextStyle(fontSize: 20,fontWeight: FontWeight.w500,)),
                 subtitle: Text("20 de set. - 10:27 AM - R\$25.74 ",style: TextStyle(fontSize: 15,fontWeight: FontWeight.w500,color: black.withOpacity(0.4))),
@@ -182,15 +182,15 @@ class _ActivePageState extends State<ActivePage> with SingleTickerProviderStateM
               ListTile(
                 leading: Container(
                     margin: EdgeInsets.all(10),
-                    width: 20,
-                    height: 20,
+                    width: 40,
+                    height: 40,
                     decoration: BoxDecoration(
                         color: textFieldColor,
                         borderRadius: BorderRadius.circular(30)
                     ),
                     child: Image(
-                      image: AssetImage("assets/images/car.jpg"),
-                      fit: BoxFit.cover,
+                      image: AssetImage("assets/images/car2.png"),
+                      fit: BoxFit.fitWidth,
                     )),
                 title: Text("R. dos imigrantes",style: TextStyle(fontSize: 20,fontWeight: FontWeight.w500,)),
                 subtitle: Text("20 de set. - 10:27 AM - R\$25.74 ",style: TextStyle(fontSize: 15,fontWeight: FontWeight.w500,color: black.withOpacity(0.4))),
@@ -203,15 +203,15 @@ class _ActivePageState extends State<ActivePage> with SingleTickerProviderStateM
               ListTile(
                 leading: Container(
                     margin: EdgeInsets.all(10),
-                    width: 20,
-                    height: 20,
+                    width: 40,
+                    height: 40,
                     decoration: BoxDecoration(
                         color: textFieldColor,
                         borderRadius: BorderRadius.circular(30)
                     ),
                     child: Image(
-                      image: AssetImage("assets/images/car.jpg"),
-                      fit: BoxFit.cover,
+                      image: AssetImage("assets/images/car2.png"),
+                      fit: BoxFit.fitWidth,
                     )),
                 title: Text("R. dos imigrantes",style: TextStyle(fontSize: 20,fontWeight: FontWeight.w500,)),
                 subtitle: Text("20 de set. - 10:27 AM - R\$25.74 ",style: TextStyle(fontSize: 15,fontWeight: FontWeight.w500,color: black.withOpacity(0.4))),
@@ -224,15 +224,15 @@ class _ActivePageState extends State<ActivePage> with SingleTickerProviderStateM
               ListTile(
                 leading: Container(
                     margin: EdgeInsets.all(10),
-                    width: 20,
-                    height: 20,
+                    width: 40,
+                    height: 40,
                     decoration: BoxDecoration(
                         color: textFieldColor,
                         borderRadius: BorderRadius.circular(30)
                     ),
                     child: Image(
-                      image: AssetImage("assets/images/car.jpg"),
-                      fit: BoxFit.cover,
+                      image: AssetImage("assets/images/car2.png"),
+                      fit: BoxFit.fitWidth,
                     )),
                 title: Text("R. dos imigrantes",style: TextStyle(fontSize: 20,fontWeight: FontWeight.w500,)),
                 subtitle: Text("20 de set. - 10:27 AM - R\$25.74 ",style: TextStyle(fontSize: 15,fontWeight: FontWeight.w500,color: black.withOpacity(0.4))),
@@ -245,15 +245,15 @@ class _ActivePageState extends State<ActivePage> with SingleTickerProviderStateM
               ListTile(
                 leading: Container(
                     margin: EdgeInsets.all(10),
-                    width: 20,
-                    height: 20,
+                    width: 40,
+                    height: 40,
                     decoration: BoxDecoration(
                         color: textFieldColor,
                         borderRadius: BorderRadius.circular(30)
                     ),
                     child: Image(
-                      image: AssetImage("assets/images/car.jpg"),
-                      fit: BoxFit.cover,
+                      image: AssetImage("assets/images/car2.png"),
+                      fit: BoxFit.fitWidth,
                     )),
                 title: Text("R. dos imigrantes",style: TextStyle(fontSize: 20,fontWeight: FontWeight.w500,)),
                 subtitle: Text("20 de set. - 10:27 AM - R\$25.74 ",style: TextStyle(fontSize: 15,fontWeight: FontWeight.w500,color: black.withOpacity(0.4))),
@@ -266,15 +266,15 @@ class _ActivePageState extends State<ActivePage> with SingleTickerProviderStateM
               ListTile(
                 leading: Container(
                     margin: EdgeInsets.all(10),
-                    width: 20,
-                    height: 20,
+                    width: 40,
+                    height: 40,
                     decoration: BoxDecoration(
                         color: textFieldColor,
                         borderRadius: BorderRadius.circular(30)
                     ),
                     child: Image(
-                      image: AssetImage("assets/images/car.jpg"),
-                      fit: BoxFit.cover,
+                      image: AssetImage("assets/images/car2.png"),
+                      fit: BoxFit.fitWidth,
                     )),
                 title: Text("R. dos imigrantes",style: TextStyle(fontSize: 20,fontWeight: FontWeight.w500,)),
                 subtitle: Text("20 de set. - 10:27 AM - R\$25.74 ",style: TextStyle(fontSize: 15,fontWeight: FontWeight.w500,color: black.withOpacity(0.4))),
