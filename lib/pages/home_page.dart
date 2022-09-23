@@ -33,9 +33,9 @@ class _HomePageState extends State<HomePage> with SingleTickerProviderStateMixin
 
             CustomSliderWidget(
               items: [
-                "assets/images/flor.jpg",
-                "assets/images/flor.jpg",
-                "assets/images/flor.jpg",
+                "assets/images/fundo1.png",
+                "assets/images/fundo2.jpg",
+                "assets/images/fundo3.jpg",
               ],
             ),
             SizedBox(height: 15,),
@@ -66,15 +66,15 @@ class _HomePageState extends State<HomePage> with SingleTickerProviderStateMixin
                           height: 105,
                           width: 110,
 
-                          child: Padding(padding: EdgeInsets.only(left: 15,right: 15),
+                          child: Padding(padding: EdgeInsets.only(right: 15),
                             child: Row(
                               children: [
                                 Container(
-                                    width: 70,
+                                    width: 95,
                                     height: 50,
                                     child: Image(
                                       image: AssetImage("assets/images/car2.png"),
-                                      fit: BoxFit.cover,
+                                      fit: BoxFit.fitWidth,
                                     )),
                               ],
                             ),
